@@ -1,0 +1,30 @@
+{
+  "name": "rn-calendar-pro",
+  "version": "1.0.0",
+  "description": "Elegant date picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaydxdt/rn-calendar-pro.git"
+  },
+  "keywords": [
+    "\"react-native\""
+  ],
+  "author": "\"react-component\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaydxdt/rn-calendar-pro/issues"
+  },
+  "homepage": "https://github.com/akshaydxdt/rn-calendar-pro#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.55.0"
+  },
+  "peerDependencies": {
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-native": "0.59.3"
+  }
+}
